@@ -1,0 +1,151 @@
+.loading-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 5;
+  background: #fff;
+  .loading {
+    display: table;
+    width: 100vw;
+    height: 100vh;
+    span {
+      display: table-cell;
+      vertical-align: middle;
+      text-align: center;
+      width: 100vw;
+      height: 100vh;
+    }
+  }
+  &.is-loading {
+    visibility: visible;
+  }
+  &.is-loaded {
+    -webkit-animation: hideLoading 1s forwards;
+    -moz-animation: hideLoading 1s forwards;
+    -o-animation: hideLoading 1s forwards;
+    animation: hideLoading 1s forwards;
+  }
+}
+
+.section {
+  min-height: 400px;
+}
+
+.btn-margin {
+  margin-top: 1.5rem;
+  margin-right: 1.5rem;
+}
+
+.badge {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.slick-next:before, .slick-prev:before {
+  color: #D96C34;
+}
+
+.notice {
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  padding: 0.3rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.3rem;
+  text-align: center;
+  color: #4682b4;
+}
+
+.button.menu {
+  background-color: #C3B1E1;
+  border-color: #C3B1E1;
+  color: #ffffff;
+
+}
+
+
+
+
+.button.menu:focus, .button.menu:hover {
+  background-color: #cd1e27;
+  border-color: #f1560c;
+  color: #ffffff;
+}
+
+.section {
+  padding: 0rem 1.5rem;
+}
+
+.nav-item {
+  img {
+    max-height: 40px;
+    max-width: 200px
+  }
+}
+
+/* added this one */
+.nav-item img{
+    max-height: 40px;
+    max-width: 200px
+}
+
+.heading {
+  text-transform: none;
+}
+
+body {
+  &.isLoading {
+    overflow: hidden;
+  }
+}
+
+@-webkit-keyframes hideLoading {
+  0% {
+    visibility: visible;
+  }
+  100% {
+    visibility: hidden;
+  }
+}
+
+@-moz-keyframes hideLoading {
+  0% {
+    visibility: visible;
+  }
+  100% {
+    visibility: hidden;
+  }
+}
+
+@-o-keyframes hideLoading {
+  0% {
+    visibility: visible;
+  }
+  100% {
+    visibility: hidden;
+  }
+}
+
+@keyframes hideLoading {
+  0% {
+    visibility: visible;
+  }
+  100% {
+    visibility: hidden;
+  }
+}
+
+.button.menu-left:focus, .button.menu-left:hover {
+  background-color: #C3B1E1;
+  border-color: #C3B1E1;
+  color: #ffffff; 
+  }
+
+.button.menu-right:focus, .button.menu-right:hover {
+  background-color: #E34234;
+  border-color: #E34234;
+  color: #ffffff; 
+  }

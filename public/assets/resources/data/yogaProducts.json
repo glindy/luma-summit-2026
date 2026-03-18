@@ -1,0 +1,156 @@
+[
+  {
+    "id": 49,
+    "sku": "WJ214",
+    "title": "Josie Yoga Jacket",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wj02-gray_main_1.jpg",
+    "price": 56.25,
+    "category": "Women",
+    "subCategory": "Outerwear",
+    "category description": "Women / Outerwear",
+    "description": "When your near future includes yoga, the cozy comfort of the Josie Yoga Jacket gets your mind and body ready. Stretchy CoolTech\u2122 fabric with zipper pockets makes this jacket the right gear for studio time or teatime after. Slate rouched neck pullover. Moisture-wicking fabric. Hidden zipper. Mesh armpit venting. Dropped rear hem."
+  },
+  {
+    "id": 2,
+    "sku": "MS120",
+    "title": "Troy Yoga Short",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/msh09-blue_main_1.jpg",
+    "price": 24,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "The versatile, all-purpose Troy Yoga Short is knee-lengthed with an elastic waistband with drawstring, making it comfortably flexible. The removable LumaTech\u2122 wicking liner is also bacteria resistant. Navy polyester pinstripe shorts. Woven fabric with moderate stretch. 62% cotton/34% nylon/4% spandex. LumaTech\u2122 lining."
+  },
+  {
+    "id": 57,
+    "sku": "WT205",
+    "title": "Leah Yoga Top",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wt05-purple_main_2.jpg",
+    "price": 39,
+    "category": "Women",
+    "subCategory": "Tops",
+    "category description": "Women / Tops",
+    "description": "The Leah Yoga Top offers a practical, comfortable upper that will not compromise your style. Body hugging fit and interior shelf bra make it suitable for active or leisure pursuits. Blue heather rouched tank top. Camisole tank top. Banding and shirring details. Body hugging fit. Contrast topstitch. Interior shelf bra with shapewear technology. 65% Polyester 35% Cotton."
+  },
+  {
+    "id": 3,
+    "sku": "MS119",
+    "title": "Hawkeye Yoga Short",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/msh05-gray_main_1.jpg",
+    "price": 29,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "What more do you need than a sporty yoga short made with organic cotton and a little spandex for mobility? The Hawkeye Yoga Short brings a stylish, standard fit you can sport with confidence outside the studio. Dark gray shorts with red accents. 92% Organic Cotton 8% Spandex. Breathable stretch organic cotton. Medium: 8'' (21cm) inseam."
+  },
+  {
+    "id": 43,
+    "sku": "WP221",
+    "title": "Karmen Yoga Pant",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wp01-gray_main_1.jpg",
+    "price": 39,
+    "category": "Women",
+    "subCategory": "Bottoms",
+    "category description": "Women / Bottoms",
+    "description": "Good for running, hiking, lounging or stretching, the Cora Parachute Pant presents comfortable styling designed to help you look and feel great. Light blue parachute pants. Power mesh internal waistband for support. Internal waistband pocket. Antimicrobial finish."
+  },
+  {
+    "id": 7,
+    "sku": "MS116",
+    "title": "Lono Yoga Short",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/msh06-gray_main_2.jpg",
+    "price": 32,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "Some shorts are &ldquo;all-purpose,&rdquo; while the Lono Yoga Short has a single purpose: yoga. Soft, flexible outer material moves with your body, and a secure, integrated boxer brief liner gives you extra confidence as you push your physique to the outer limits. Dark gray shorts with mesh accents. Ultra flexible four-way stretch. Flatlock seams and waistband. Two pockets, phony fly. Nylon/Lycra outer, Polyester/Lycra inner."
+  },
+  {
+    "id": 33,
+    "sku": "WH232",
+    "title": "Selene Yoga Hoodie",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wh05-white_main_1.jpg",
+    "price": 42,
+    "category": "Women",
+    "subCategory": "Tops",
+    "category description": "Women / Tops",
+    "description": "The Selene Yoga Hoodie gets you to and from the studio in semi form-fitted comfort. Snug, sleek contours add fashion to function in this free-moving yoga warm up sweatshirt. Ivory heather full zip 3/4 sleeve hoodie. Zip pocket at arm for convenient storage. 24'' body length. 89% Polyester / 11% Spandex."
+  },
+  {
+    "id": 13,
+    "sku": "MP112",
+    "title": "Cronus Yoga Pant",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp12-black_main_1.jpg",
+    "price": 48,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "Guys who love yoga love this all-purpose yoga pant. Designed for yoga, gym and lounge, the Cronus Yoga Pant is a loose-fitting, classic-style pant made from a lightweight blend of cotton, recycled polyester and a touch of Spandex for the stretch factor. Drawstring waist. Loose, straight-leg fit. Lightweight cotton-recycled blend. Front pockets with stitching detail. Elastic ankle."
+  },
+  {
+    "id": 58,
+    "sku": "WB204",
+    "title": "Prima Compete Bra Top",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wb04-blue_main_2.jpg",
+    "price": 24,
+    "category": "Women",
+    "subCategory": "Tops",
+    "category description": "Women / Tops",
+    "description": "Pull on the Prima Compete Bra Top and you'll love the fabric: soft, stretchy, and ultra lightweight. But you'll also love the racerback cut, for freer movement through all your athletic feats. ` Colorblocked details. Machine wash/line dry."
+  },
+  {
+    "id": 15,
+    "sku": "MP110",
+    "title": "Orestes Yoga Pant",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp10-black_main_2.jpg",
+    "price": 66,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "The Orestes Yoga Pant is a yoga basic that sustains the novice yogi well into the expert stage. Organic sustainable cotton and 9% stretch spandex let your body bend to your will while your conscience stays clear. A yoga essential. Breathable stretch organic cotton/spandex. Standard Fit."
+  },
+  {
+    "id": 32,
+    "sku": "WS233",
+    "title": "Bess Yoga Short",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wsh05-blue_main_1.jpg",
+    "price": 28,
+    "category": "Gear",
+    "subCategory": "Watches",
+    "category description": "Gear / Watches",
+    "description": "Designed for intense physical activity &ndash; think bikram &ndash; our Bess Yoga Short features moisture-wicking, four-way stretch fabric that lets you move in every which way. A vented gusset adds breathability and range of motion. Navy cotton shorts with light bue waist detail. Front shirred waistband. Flat-lock, chafe-free side seams. Vented gusset. Hidden interior pocket. Sustainable and recycled fabric."
+  },
+  {
+    "id": 5,
+    "sku": "MP108",
+    "title": "Zeppelin Yoga Pant",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp08-green_main_1.jpg",
+    "price": 82,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "Climb every mountain, or hold every pose, in the all-purpose Zepellin Yoga Pant. With its thin fleece interior and smooth layer-friendly surface, you'll get all the comfort and versatility you need. Smooth exterior for easy over-layering. Brushed fleece interior insulates and wicks.  No-roll elastic waistband with inner drawstring. Chafe-resistant flatlock seams."
+  },
+  {
+    "id": 54,
+    "sku": "WJ209",
+    "title": "Jade Yoga Jacket",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wj09-green_main_1.jpg",
+    "price": 32,
+    "category": "Women",
+    "subCategory": "Outerwear",
+    "category description": "Women / Outerwear",
+    "description": "If only all your other jackets were as comfortable as the relaxed-fit Jade Yoga Jacket, perfect for use during stretching, biking to and from studio or strolling on breezy fall days. Seafoam 1/4 zip pullover with purple stitching. Lightweight, quick-drying, water-resistant construction. Shirred details at front and back for a feminine look. Hood collapses into collar. Mesh liner for breathability. Front zip pockets. Hem cinches at sideseam. 100% Polyester."
+  },
+  {
+    "id": 63,
+    "sku": "GG311",
+    "title": "Set of Sprite Yoga Straps",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/luma-yoga-strap-set.jpg",
+    "price": 14,
+    "category": "Gear",
+    "subCategory": "Yoga",
+    "category description": "Gear / Yoga",
+    "description": "Great set of Sprite Yoga Straps for every stretch and hold you need. There are three straps in this set: 6', 8' and 10'.<ul>\n<li>100% soft and durable cotton.</li>\n<li>Plastic cinch buckle is easy to use.</li>\n<li>Choice of three natural colors made from phthalate and heavy metal free dyes.</li>\n</ul>"
+  }
+]

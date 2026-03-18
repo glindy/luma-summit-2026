@@ -1,0 +1,190 @@
+.loading-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  z-index: 5;
+  background: #fff; }
+  .loading-wrapper .loading {
+    display: table;
+    width: 100vw;
+    height: 100vh; }
+    .loading-wrapper .loading span {
+      display: table-cell;
+      vertical-align: middle;
+      text-align: center;
+      width: 100vw;
+      height: 100vh; }
+  .loading-wrapper.is-loading {
+    visibility: visible; }
+  .loading-wrapper.is-loaded {
+    -webkit-animation: hideLoading 1s forwards;
+    -moz-animation: hideLoading 1s forwards;
+    -o-animation: hideLoading 1s forwards;
+    animation: hideLoading 1s forwards; }
+
+.btn-margin {
+  margin-top: 1.5rem;
+  margin-right: 1.5rem; 
+}
+
+.badge {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem; }
+
+.slick-next:before, .slick-prev:before {
+  color: #D96C34; }
+
+.notice {
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  padding: 0.3rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.3rem;
+  text-align: center;
+  color: #4682b4; }
+
+
+.button.menu {
+  background-color: #668FFC;
+  border-color: #668FFC;
+  color: #ffffff; }
+
+
+/* added this to update top nav buttons; verify if app.scss has also been updated! */
+.button.menu-left {
+  background-color: #668FFC;
+  border-color: #668FFC;
+  color: #ffffff; }
+}
+
+/* added this to update top nav buttons; verify if app.scss has also been updated! */
+.button.menu-right {
+  background-color: #5BD8A3;
+  border-color: #5BD8A3;
+  color: #ffffff; }
+}
+
+/* end update */
+
+
+.button.menu:focus, .button.menu:hover {
+  background-color: #C3B1E1;
+  border-color: #C3B1E1;
+  color: #ffffff; }
+
+.section {
+  padding: 1.5rem; }
+
+.nav-item img {
+  max-height: 40px;
+  max-width:200px }
+
+.heading {
+  text-transform: none; }
+
+body.isLoading {
+  overflow: hidden; }
+
+@-webkit-keyframes hideLoading {
+  0% {
+    visibility: visible; }
+  100% {
+    visibility: hidden; } }
+@-moz-keyframes hideLoading {
+  0% {
+    visibility: visible; }
+  100% {
+    visibility: hidden; } }
+@-o-keyframes hideLoading {
+  0% {
+    visibility: visible; }
+  100% {
+    visibility: hidden; } }
+@keyframes hideLoading {
+  0% {
+    visibility: visible; }
+  100% {
+    visibility: hidden; } }
+
+
+/* CUSTOM STYLES */
+:root {
+  overflow: auto;
+}
+
+.footer {
+  margin-top: 30px;
+}
+
+:root, body, #app, .app-container {
+  height: 100%;
+}
+
+.page-container {
+  min-height: calc(100% - 156px);
+}
+
+.Footernav-disclaimers {
+  float: right;
+  font-size: 12px;
+}
+
+li.Footernav-disclaimer {
+  display: inline-block;
+}
+
+li:not(:last-child).Footernav-disclaimer:after {
+  content: '/';
+  margin: 0 8px;
+}
+
+.sub-text {
+  font-size: 11px;
+}
+
+.slick-slide img {
+  width: 100% !important;
+}
+
+.cart-popover {
+  right: 25px !important;
+  width: 400px !important;
+  left: auto !important;
+  top: 56px !important;
+  max-width: 100% !important;
+}
+
+/* added this for hover on customized top nav add to cart/wishlist menu buttons (.button.menu-left, .button.menu-right) */
+
+.button.menu-left:focus, .button.menu-left:hover {
+  background-color: #C3B1E1;
+  border-color: #C3B1E1;
+  color: #ffffff; }
+
+.button.menu-right:focus, .button.menu-right:hover {
+  background-color: #E34234;
+  border-color: #E34234;
+  color: #ffffff; }
+
+
+/* this is for loading button on product category list pages */
+
+.btn-center {
+  background-color: #E34234;
+  border-color: #E34234;
+  line-height: 2em;
+  border-radius: 4px;
+  border-style: solid;
+  color: #ffffff; }
+
+
+/* for Checkout Page headers */
+.badge-clear {
+    color: #D96C34;
+}
+
+/*# sourceMappingURL=app.css.map */

@@ -1,0 +1,34 @@
+[
+  {
+    "description": "For a completely modern style with moisture-wicking CoolTech&trade; technology, try the Gwen Drawstring Bike Short. Subtle grays and eye catching stitching combine with an adjustable waist for the perfect look and fit. Dark heather gray rouched bike shorts. Fitted. Inseam: 2. Machine wash/dry.",
+    "id": 1,
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wsh03-gray_main_2.jpg",
+    "price": 24,
+    "title": "Gwen Bike Short",
+    "userId": 1
+  },
+  {
+    "description": "Climb every mountain, or hold every pose, in the all-purpose Zepellin Yoga Pant. With its thin fleece interior and smooth layer-friendly surface, you'll get all the comfort and versatility you need. Smooth exterior for easy over-layering. Brushed fleece interior insulates and wicks. No-roll elastic waistband with inner drawstring. Chafe-resistant flatlock seams.",
+    "id": 5,
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp08-green_main_1.jpg",
+    "price": 82,
+    "title": "Zeppelin Yoga Pant",
+    "userId": 1
+  },
+  {
+    "description": "So light and comfy, you'll love the Radiant Tee's organic fabric, feel, performance and style. You may never want to stop moving in this shirt. Salmon soft scoop neck tee. Athletic, semi-form fit. Flat seams prevent chafing. 67% Organic Cotton / 28% Hemp / 5% Spandex.",
+    "id": 9,
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/ws12-orange_main_2.jpg",
+    "price": 22,
+    "title": "Radiant Tee",
+    "userId": 1
+  },
+  {
+    "description": "On colder-than-comfortable mornings, you'll love warming up in the Juno All-Ways Performanc Jacket, designed to compete with wind and chill. Built-in Cocona&reg; technology aids evaporation, while a special zip placket and stand-up collar keep your neck protected. Adjustable hood. Fleece-lined, zippered hand pockets. Thumbhole cuffs. Full zip. Mock-neck collar. Machine wash/dry.",
+    "id": 12,
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wj06-purple_main_1.jpg",
+    "price": 77,
+    "title": "Juno Jacket",
+    "userId": 2
+  }
+]

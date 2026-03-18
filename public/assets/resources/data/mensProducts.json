@@ -1,0 +1,222 @@
+[
+  {
+    "id": 2,
+    "sku": "MS120",
+    "title": "Troy Yoga Short",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/msh09-blue_main_1.jpg",
+    "price": 24,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "The versatile, all-purpose Troy Yoga Short is knee-lengthed with an elastic waistband with drawstring, making it comfortably flexible. The removable LumaTech\u2122 wicking liner is also bacteria resistant. Navy polyester pinstripe shorts. Woven fabric with moderate stretch. 62% cotton/34% nylon/4% spandex. LumaTech\u2122 lining."
+  },
+  {
+    "id": 3,
+    "sku": "MS119",
+    "title": "Hawkeye Yoga Short",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/msh05-gray_main_1.jpg",
+    "price": 29,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "What more do you need than a sporty yoga short made with organic cotton and a little spandex for mobility? The Hawkeye Yoga Short brings a stylish, standard fit you can sport with confidence outside the studio. Dark gray shorts with red accents. 92% Organic Cotton 8% Spandex. Breathable stretch organic cotton. Medium=8.0'' (21.0cm) inseam."
+  },
+  {
+    "id": 4,
+    "sku": "MP118",
+    "title": "Caesar Warm-Up Pant",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp01-gray_main_1.jpg",
+    "price": 35,
+   "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "Command your workout and keep your muscles limber in the Caesar Warm-Up Pant. Engineered CoolTech\u2122 fabric wicks away moisture so you don't have to worry about sweat and discomfort. The drawstring-adjustable waist helps make sure your pants fit properly. Light gray heather knit straight leg pants. Relaxed fit. Inseam: 32''. Machine wash/dry. CoolTech\u2122 wicking fabric."
+  },
+  {
+    "id": 6,
+    "sku": "MP117",
+    "title": "Viktor LumaTech™ Pant",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp02-gray_main_2.jpg",
+    "price": 46,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "You'll love the new Viktor LumaTech\u2122 Pant, with featherweight fleece fabric lining and stretchy, sweat-wicking material. It delivers toasty warmth on the sidelines or in cold-weather training, with reflective trim for a safe finish. Dark gray polyester/spandex straight leg pants. Elastic waistband and internal drawstring. Relaxed fit. Machine wash/dry."
+  },
+  {
+    "id": 7,
+    "sku": "MS116",
+    "title": "Lono Yoga Short",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/msh06-gray_main_2.jpg",
+    "price": 32,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "Some shorts are &ldquo;all-purpose,&rdquo; while the Lono Yoga Short has a single purpose: yoga. Soft, flexible outer material moves with your body, and a secure, integrated boxer brief liner gives you extra confidence as you push your physique to the outer limits. Dark gray shorts with mesh accents. Ultra flexible four-way stretch. Flatlock seams and waistband. Two pockets, phony fly. Nylon/Lycra outer, Polyester/Lycra inner."
+  },
+  {
+    "id": 8,
+    "sku": "MH115",
+    "title": "Hero Hoodie",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mh07-gray_main_2.jpg",
+    "price": 54,
+    "category": "Men",
+    "subCategory": "Tops",
+    "category description": "Men / Tops",
+    "description": "Gray and black color blocking sets you apart as the Hero Hoodie keeps you warm on the bus, campus or cold mean streets. Slanted outsize front pockets keep your style real . . . convenient. Full-zip gray and black hoodie. Ribbed hem. Standard fit. Drawcord hood cinch. Water-resistant coating."
+  },
+  {
+    "id": 10,
+    "sku": "MJ114",
+    "title": "Taurus Elements Shell",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mj09-yellow_main_2.jpg",
+    "price": 65,
+    "category": "Men",
+    "subCategory": "Tops",
+    "category description": "Men / Tops",
+    "description": "What's a little rain or snow when you're inside the Taurus Elements Shell? This specially engineered Cocona\u00AE jacket lets you enjoy the great outdoors and brave the elements, thanks to the all-waterproof, breathable exterior. Yellow 1/4 zip pullover. Two chest pockets. Standard fit.  Waterproof, breathable, seam sealed.  Cocona\u00AE performance fabric. Machine wash/dry."
+  },
+  {
+    "id": 11,
+    "sku": "MH113",
+    "title": "Marco Lightweight Hoodie",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mh13-blue_main_2.jpg",
+    "price": 74.0,
+    "category": "Men",
+    "subCategory": "Tops",
+    "category description": "Men / Tops",
+    "description": "For cold-weather training or post-game layering, you need something more than a basic fleece. Our Marco Lightweight Active Hoodie brings both style and performance to the plate, court, or touchline. The smooth-faced, brushed-back fabric blocks wind and traps body heat, while integrated Cocona\u00AE fibers pull moisture away. Light blue heather full zip hoodie. Fitted flatlock seams. Matching lining and drawstring. Machine wash/dry."
+  },
+  {
+    "id": 13,
+    "sku": "MP112",
+    "title": "Cronus Yoga Pant",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp12-black_main_1.jpg",
+    "price": 48,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "Guys who love yoga love this all-purpose yoga pant. Designed for yoga, gym and lounge, the Cronus Yoga Pant is a loose-fitting, classic-style pant made from a lightweight blend of cotton, recycled polyester and a touch of Spandex for the stretch factor. Drawstring waist. Loose, straight-leg fit. Lightweight cotton-recycled blend. Front pockets with stitching detail. Elastic ankle."
+  },
+  {
+    "id": 14,
+    "sku": "MP111",
+    "title": "Aether Gym Pant",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp11-brown_main_1.jpg",
+    "price": 74,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "The Aether Gym Pant is built for the studio, but adapts perfectly well to outdoor and gym environs too. With lightweight stretch fabric and water-repellent exterior, the Aether is ready for all comers. Pants/shorts convertible. Lightweight moisture wicking. Water repellent. Belted waist."
+  },
+  {
+    "id": 15,
+    "sku": "MP110",
+    "title": "Orestes Yoga Pant",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp10-black_main_2.jpg",
+    "price": 66,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "The Orestes Yoga Pant is a yoga basic that sustains the novice yogi well into the expert stage. Organic sustainable cotton and 9% stretch spandex let your body bend to your will while your conscience stays clear. A yoga essential. Breathable stretch organic cotton/spandex. Standard Fit."
+  },
+  {
+    "id": 16,
+    "sku": "MP109",
+    "title": "Livingston All-Purpose Tight",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp09-blue_main_1.jpg",
+    "price": 75,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "It's not often that your pants work as a yoga staple and a climbing buddy. The Livingston All-Purpose Tight is made with soft, 11% cotton and nylon polymer stretch construction that lets you find the right angle in the studio or on the mountain side. Breathable stretch organic cotton/spandex. Compression fit Hidden key pocket Elastic waist with internal drawcord."
+  },
+  {
+    "id": 5,
+    "sku": "MP108",
+    "title": "Zeppelin Yoga Pant",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp08-green_main_1.jpg",
+    "price": 82,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "Climb every mountain, or hold every pose, in the all-purpose Zepellin Yoga Pant. With its thin fleece interior and smooth layer-friendly surface, you'll get all the comfort and versatility you need. Smooth exterior for easy over-layering. Brushed fleece interior insulates and wicks. No-roll elastic waistband with inner drawstring. Chafe-resistant flatlock seams."
+  },
+  {
+    "id": 17,
+    "sku": "MP107",
+    "title": "Thorpe Track Pant",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp07-blue_main_1.jpg",
+    "price": 68,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "Thirty degree temps are chilly for most, except when you're in Thorpe Track Pants. These top-of-the-line track bottoms are made from fast-drying, weather-resistant fabric with an internal breathable layer of mesh nylon to wick away moisture. Moisture transfer properties. 7% stretch. Reflective safety trim. Elastic drawcord waist."
+  },
+  {
+    "id": 18,
+    "sku": "MP106",
+    "title": "Mithra Warmup Pant",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp04-gray_main_1.jpg",
+    "price": 28,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "When you're not sure you're up to the weather, don the Mithra Warmup Pant for a confidence boost. Its supersoft, stretchy fabric and fleece-like finish help prep your muscles and ease your mind. Designed for relaxed, easy-wear fit with handy ankle zips. Ankle zips. Elasticized waistband with draw cord. Dual hand pockets. Reflective elements for low-light safety."
+  },
+  {
+    "id": 19,
+    "sku": "MP105",
+    "title": "Kratos Gym Pant",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp05-blue_main_1.jpg",
+    "price": 57,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "Like it's titlesake god of strength, the Kratos Gym Pant help you bring your best to bear on weight-based, plyometric and endurance exercise. They stretch and support in all the right places while ultra-light construction and moisture-wicking technology provide comfort. Navy cotton straight leg pants. Relaxed fit. 2 side-seam pockets. Internal zip pocket. Drawstring waist. Machine wash/dry."
+  },
+  {
+    "id": 20,
+    "sku": "MP104",
+    "title": "Supernova Sport Pant",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp04-gray_main_1.jpg",
+    "price": 45,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "Turn the corner and open it up -- your driveway is two blocks away. The Supernova Sport Pant gets you there with key features like moisture-wicking LumaTech\u2122 fabric and mesh ventilation. Side seam pockets ensure total convenience during rest periods. Dark heather gray straight leg cotton pants. Relaxed fit. Internal drawstring. Machine wash/dry."
+  },
+  {
+    "id": 21,
+    "sku": "MP103",
+    "title": "Geo Insulated Jogging Pant",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mp03-black_main_1.jpg",
+    "price": 51,
+    "category": "Men",
+    "subCategory": "Bottoms",
+    "category description": "Men / Bottoms",
+    "description": "In the cold, even the toughest guys shiver, unless they're in the Geo Insulated Jogging Pant. Lightweight and wind resistant, they block brutal wind gusts and warm you to the bone. Breathable mesh keeps them dry on the inside. Black polyester spandex pants with zipper pockets.<br>&bull; Reflective safety accents. <br>&bull; Loose fit.<br>&bull; On-seam pockets. <br>&bull; 8'' leg zips. 32'' inseam. <br>&bull; Machine wash/dry."
+  },
+  {
+    "id": 22,
+    "sku": "MT102",
+    "title": "Tristan Endurance Tank",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mt02-white_main_2.jpg",
+    "price": 29,
+   "category": "Men",
+    "subCategory": "Tops",
+    "category description": "Men / Tops",
+    "description": "Push yourself through punishing runs, plyometric workouts, intense competition and more in our athletic Tristan Endurance Tank. Constructed with built-in moisture-wicking technology, it's designed to keep you completely cool and dry on the long haul. White performance tank. Stylish contrast stitching. Relaxed fit. Ribbed crew neckline. Machine wash/dry."
+  },
+  {
+    "id": 23,
+    "sku": "MS101",
+    "title": "Aero Daily Fitness Tee",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/ms01-blue_main_1.jpg",
+    "price": 24.0,
+    "category": "Men",
+    "subCategory": "Tops",
+    "category description": "Men / Tops",
+    "description": "Need an everyday action tee that helps keep you dry? The Aero Daily Fitness Tee is made of 100% polyester wicking knit that funnels moisture away from your skin. Don't be fooled by its classic style; this tee hides premium performance technology beneath its unassuming look.\nRelaxed fit. <br />Short-Sleeve. <br />Machine wash/dry."
+  }
+]

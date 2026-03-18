@@ -1,0 +1,123 @@
+[
+  {
+    "id": 63,
+    "sku": "GG311",
+    "title": "Set of Sprite Yoga Straps",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/luma-yoga-strap-set.jpg",
+    "price": 14,
+    "category": "Gear",
+    "subCategory": "Yoga",
+    "category description": "Gear / Yoga",
+    "description": "Great set of Sprite Yoga Straps for every stretch and hold you need. There are three straps in this set: 6', 8' and 10'. 100% soft and durable cotton.  Plastic cinch buckle is easy to use.  Choice of three natural colors made from phthalate and heavy metal free dyes."
+  },
+  {
+    "id": 64,
+    "sku": "GG310",
+    "title": "Sprite Yoga Companion Kit",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/luma-yoga-kit-2.jpg",
+    "price": 61,
+    "category": "Gear, Equipment",
+    "thumbnail": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/luma-yoga-kit-2.jpg",
+    "description": "A well-rounded yoga workout takes more than a mat. The Sprite Yoga Companion Kit helps stock your studio with the basics you need for a full-range workout. The kit is composed of four best-selling Luma Sprite accessories in one easy bundle: statis ball, foam block, yoga strap, and foam roller. Choose sizes and colors and leave the rest to us. The kit includes: Sprite Statis Ball  Sprite Foam Yoga Brick  Sprite Yoga Strap  Sprite Foam Roller "
+  },
+  {
+    "id": 65,
+    "sku": "GW309",
+    "title": "Didi Sport Watch",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wg02-bk-0.jpg",
+    "price": 92,
+    "category": "Gear",
+    "subCategory": "Watches",
+    "category description": "Gear / Watches",
+    "thumbnail": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wg02-bk-0.jpg",
+    "description": "The Didi Sport Watch helps you keep your workout plan down to the second. The vertical, digital face looks sleek and futuristic. This watch is programmed with tons of helpful features such as a timer, an alarm clock, a pedometer, and more to help make your excercise more productive. Digital display. LED backlight. Rubber strap with buckle clasp. 1-year limited warranty."
+  },
+  {
+    "id": 66,
+    "sku": "GW308",
+    "title": "Clamber Watch",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wg03-gr-0.jpg",
+    "price": 54,
+    "category": "Gear",
+    "subCategory": "Watches",
+    "category description": "Gear / Watches",
+    "description": "Keep track of time on the treadmill or trail with our Clamber Watch. The flexible, rubberized strap is contoured to conform to your wrist for a comfortable fit all day. The face features an illuminated digital read-out of the current time and stopwatch functions. Japanese quartz movement.  Strap fits 5'' to 6''."
+  },
+  {
+    "id": 67,
+    "sku": "GW307",
+    "title": "Bolo Sport Watch",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wg01-bk-0.jpg",
+    "price": 49,
+    "category": "Gear",
+    "subCategory": "Watches",
+    "category description": "Gear / Watches",
+    "description": "The Bolo Sport Watch is sleek, sporty and sized just right to fit your smaller wrist. Easy to read and set up, it features a large digital face and button-activated alarm and stopwatch. The soft-touch resin band promises no-pinch comfort, while the water-resistant design lets you take your workout to the lap pool. Displays time, day and date. Two-tone design. 12/24 hour formats. Nickel-free buckle on band.  Battery included."
+  },
+  {
+    "id": 68,
+    "sku": "GW306",
+    "title": "Luma Analog Watch",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/wg09-gr-0.jpg",
+    "price": 43,
+    "category": "Gear",
+    "subCategory": "Watches",
+    "category description": "Gear / Watches",
+    "description": "Designed to stand up to your active lifestyle, this women's Luma Analog Watch features a tasteful brushed chrome finish and a stainless steel, water-resistant construction for lasting durability. Precision Miyota\u00AE three-hand movement."
+  },
+  {
+    "id": 69,
+    "sku": "GW305",
+    "title": "Dash Digital Watch",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mg02-bk-0.jpg",
+    "price": 92,
+    "category": "Gear",
+    "subCategory": "Watches",
+    "category description": "Gear / Watches",
+    "description": "The Dash Digital Watch will challenge you to push harder and longer. Log workouts by date, average, and segment times, and recharge by setting hydration and nutrition alarms. This watch is styled with a sleek, square face and durable rubber strap for a long life. Digital display.  LED backlight.  Rubber strap with buckle clasp.  1-year limited warranty."
+  },
+  {
+    "id": 70,
+    "sku": "GW304",
+    "title": "Cruise Dual Analog Watch",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mg05-br-0.jpg",
+    "price": 55,
+    "category": "Gear",
+    "subCategory": "Watches",
+    "category description": "Gear / Watches",
+    "description": "Whether you're traveling or wish you were, you'll never let time zones perplex you again with the Cruise Dual Analog Watch. The thick, adjustable band promises a comfortable, personalized fit to this classy, modern time piece. Two dials.  Stainless steel case.  Adjustable leather band."
+  },
+  {
+    "id": 71,
+    "sku": "GW303",
+    "title": "Summit Watch",
+    "price": 55,
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mg03-br-0.jpg",
+    "category": "Gear",
+    "subCategory": "Watches",
+    "category description": "Gear / Watches",
+    "description": "Trek high and low in the attractive Summit Watch, which features a digital LED display with time and date, stopwatch, lap counter, and 3-second backlight. It can also calculate the number of steps taken and calories burned. Brushed metal case.  Water resistant (100 meters).  Buckle clasp.  Strap fits 7'' - 10''.  1-year limited warranty."
+  },
+  {
+    "id": 72,
+    "sku": "GW302",
+    "title": "Endurance Watch",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/mg01-bk-0.jpg",
+    "price": 49,
+    "category": "Gear",
+    "subCategory": "Watches",
+    "category description": "Gear / Watches",
+    "description": "It's easy to track and monitor your training progress with the Endurance Watch. You'll see standard info like time, date and day of the week, but it also functions for the serious high-mileage athete: lap counter, stopwatch, distance, heart rate, speed/pace, cadence and altitude. Digital display.  LED backlight.  Strap fits 7'' to 10''.  1-year limited warranty.  Comes with polished metal case."
+  },
+  {
+    "id": 73,
+    "sku": "GC301",
+    "title": "Luma Virtual Gift Card",
+    "image": "https://demo-system-next.s3.amazonaws.com/assets/luma/products/gift-card-virtual-custom.jpg",
+    "price": 0,
+    "category": "Gear",
+    "subCategory": "Gift Card",
+    "category description": "Men / Gift Card",
+    "description": "A Luma virtual gift card is emailed with an optional message to your special someone. It can be redeemed on any of the Luma family of websites and will never expire. Give the gift of purchase power!"
+  } 
+]
