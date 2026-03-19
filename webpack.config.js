@@ -4,11 +4,13 @@ const path = require('path');
 module.exports = {
   context: path.join(__dirname, './'),
 
+/*
   entry: [
     'webpack-dev-server/client?http://localhost:3000', // dev server client
     'webpack/hot/dev-server',                          // HMR
     './src/index.js'                                   // your entry file
   ],
+  */
 
   output: {
     path: path.join(__dirname, 'public', 'assets'),
