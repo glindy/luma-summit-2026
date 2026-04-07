@@ -46,7 +46,7 @@ class YogaProducts extends Component {
     fetch('assets/resources/data/yogaProducts.json')
     .then((response) => response.json())
     .then((data) => {
-      console.log("Fetched data:", data); // Log API response
+     // console.log("Fetched data:", data); // Log API response
       this.setState({ products: Array.isArray(data) ? data : [] });
     })
     .catch((error) => console.error("Error fetching Yoga products:", error));

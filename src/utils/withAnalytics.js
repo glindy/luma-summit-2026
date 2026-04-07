@@ -13,7 +13,7 @@ const withAnalytics = (WrappedComponent) => {
     }
 
     componentDidMount() {
-      console.log(`[withAnalytics] Mounted: ${WrappedComponent.name || 'Unknown'}`);
+      //console.log(`[withAnalytics] Mounted: ${WrappedComponent.name || 'Unknown'}`);
       this.trackPageView();
 
       // Listen for the custom event
@@ -29,7 +29,7 @@ const withAnalytics = (WrappedComponent) => {
     (this.props.location.pathname !== prevProps.location.pathname ||
     this.props.location.hash !== prevProps.location.hash) && location.hash.split('/')[1] !== 'product'
   ) {
-    console.log(`[withAnalytics] Route changed to: ${this.props.location.pathname}${this.props.location.hash}`);
+    //console.log(`[withAnalytics] Route changed to: ${this.props.location.pathname}${this.props.location.hash}`);
     this.trackPageView();
   }
 }
@@ -37,13 +37,13 @@ const withAnalytics = (WrappedComponent) => {
 
   trackPageView() {
   if (!this.props.location) {
-    console.error("[withAnalytics] location prop is undefined. Ensure component is wrapped with Router.");
+    //console.error("[withAnalytics] location prop is undefined. Ensure component is wrapped with Router.");
     return;
   }
 
   const { pathname } = this.props.location;
   const pagePath = pathname === "/" ? "/home" : pathname;
-  console.log(`[withAnalytics] Tracking page view: ${pagePath}`);
+  //console.log(`[withAnalytics] Tracking page view: ${pagePath}`);
 
   function runAfterMetaUpdate(callback) {
     const targetNode = document.head;
@@ -102,14 +102,14 @@ window.digitalData = {
 };
 
 
-console.log("Updated digitalData:", window.digitalData);
+//console.log("Updated digitalData:", window.digitalData);
 
   });
 }
 
 
     render() {
-      console.log(`[withAnalytics] Wrapping: ${WrappedComponent.name || 'Unknown Component'}`);
+      //console.log(`[withAnalytics] Wrapping: ${WrappedComponent.name || 'Unknown Component'}`);
       return <WrappedComponent {...this.props} />;
     }
   }

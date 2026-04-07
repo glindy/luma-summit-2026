@@ -32,7 +32,7 @@ const TrackedApp = withAnalytics(App);
 const dispatchCustomEvent = (eventName, target) => {
   const event = new CustomEvent(eventName);
   target.dispatchEvent(event);
-  console.log(`[index.js] Custom event '${eventName}' dispatched`);
+  //console.log(`[index.js] Custom event '${eventName}' dispatched`);
 };
 
 const AppWithEvents = withRouter((props) => {
@@ -48,14 +48,14 @@ const AppWithEvents = withRouter((props) => {
   const isSampledUser = lumaId % 2 === 0;
 
   if (!isSampledUser) {
-    console.log('[LUMA SAMPLE] User not sampled — no cookie set');
+    //console.log('[LUMA SAMPLE] User not sampled — no cookie set');
     return;
   }
 
   const expires = new Date(Date.now() + 24 * 60 * 60 * 1000).toUTCString();
   document.cookie = `lumaCookie=${lumaId}; path=/; expires=${expires}`;
 
-  console.log('[LUMA SAMPLE] User sampled — cookie set:', lumaId);
+  //console.log('[LUMA SAMPLE] User sampled — cookie set:', lumaId);
 }
 
 
