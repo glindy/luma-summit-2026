@@ -21,7 +21,7 @@ class CatalogGear extends Component {
                 <a href="#/gearproducts">
                   <figure className="image is-16by9">
                     <img
-                      src="https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/images/ds-backgrounds/governance-and-security.sm.png"
+                      src="https://demo-system-next.s3.amazonaws.com/cja/r/g/w/checking-watch.jpg"
                       alt="Gear Watches"
                       style={{ width: "100%" }}
                     />
@@ -44,7 +44,7 @@ class CatalogGear extends Component {
                 <a href="#/gearproducts">
                   <figure className="image is-16by9">
                     <img
-                      src="https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/images/ds-backgrounds/itbg-parent-playbook-3.sm.png"
+                      src="https://demo-system-next.s3.amazonaws.com/cja/r/g/h/bottle-mtn-flowers.jpg"
                       alt="Gear Hydration"
                       style={{ width: "100%" }}
                     />
